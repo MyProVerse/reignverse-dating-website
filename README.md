@@ -1,10 +1,10 @@
-# Reignverse Dating Website
+# ReignVerse Dating Website
 
-Welcome to the Reignverse Dating Website repository. This project is a clone of a modern and fully responsive dating website. The website includes a homepage and an about page, both designed to provide a seamless and engaging user experience.
+Welcome to the ReignVerse Dating Website repository. This project is a clone of a modern and fully responsive dating website. The website includes a homepage and an about page, both designed to provide a seamless and engaging user experience.
 
 ## Introduction
 
-The Reignverse Dating Website is a clone of a stylish web design project created to connect individuals in an engaging and user-friendly environment. The website features a homepage with highlights and an about page providing more information about the service.
+The ReignVerse Dating Website is a clone of a stylish web design project created to connect individuals in an engaging and user-friendly environment. The website features a homepage with highlights and an about page providing more information about the service.
 
 ## Features
 
