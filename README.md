@@ -19,6 +19,13 @@ The Reignverse Dating Website is a clone of a stylish web design project created
 - **CSS3**
 - **Bootstrap 4**
 
+# File Structure
+# reignverse-dating-website/
+- [pics/](pics/)
+- [index.html](index.html)
+- [about.html](about.html)
+- [style.css](style.css)
+
 ## Installation
 
 To set up the project locally, follow these steps:
