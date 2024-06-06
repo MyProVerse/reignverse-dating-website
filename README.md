@@ -41,16 +41,23 @@ To set up the project locally, follow these steps:
 
 We welcome contributions from the community. To contribute, please follow the steps below:
 
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature
-   git commit -m 'Add your feature'
-   git push origin feature/your-feature
-   Open a pull request
+1. **Fork the repository**.
+2. **Create a new branch** (`git checkout -b feature/your-feature`).
+3. **Commit your changes** (`git commit -m 'Add your feature'`).
+4. **Push to the branch** (`git push origin feature/your-feature`).
+5. **Open a pull request**.
 
-# License
+Please ensure that your code follows our coding standards and includes necessary documentation.
+
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-# Contact
-For any inquiries or feedback, please contact us at alizaman6780@gmail.com.
+## Contact
+
+For any inquiries or feedback, please contact us at [alizaman6780@gmail.com](mailto:alizaman6780@gmail.com).
+
+Thank you for visiting the ReignVerse repository. We hope you enjoy the engaging and interactive design!
+
+
+
+
